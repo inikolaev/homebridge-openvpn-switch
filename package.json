@@ -1,0 +1,13 @@
+{
+  "name": "homebridge-openvpn-switch",
+  "version": "0.0.1",
+  "description": "OpenVPN Switch for Homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=13.2.0",
+    "homebridge": ">=0.4.50"
+  }
+}
