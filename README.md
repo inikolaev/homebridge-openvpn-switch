@@ -1,4 +1,14 @@
-Accessory configuration example:
+# VPN Switch Accessory
+
+Accessory that allows to switch between different VPN servers.
+
+## Installation
+
+```bash
+npm i -g @inikolaev/homebridge-openvpn-switch
+```
+
+## Configuration
 
 ```json
 "accessories": [{
