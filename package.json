@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-openvpn-switch",
+  "name": "@inikolaev/homebridge-openvpn-switch",
   "version": "0.0.1",
   "description": "OpenVPN Switch for Homebridge",
   "license": "MIT",
