@@ -1,8 +1,11 @@
 {
   "name": "@inikolaev/homebridge-openvpn-switch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "OpenVPN Switch for Homebridge",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "homebridge-plugin"
   ],
